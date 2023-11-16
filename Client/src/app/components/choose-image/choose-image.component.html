@@ -1,0 +1,7 @@
+<router-outlet></router-outlet>
+<section [hidden]="!this.notloading">
+    <input type="file" accept=".jpg,.jpeg,.png" (change)="onFileSelected($event)">
+    <img [src]="this.imgSrc">
+    <button class="button-85" role="button" [hidden]="this.imgSrc=='/assets/no-image-icon-6.png'?true:false" (click)="PixelPicture()">יצירת חידון</button>
+</section>
+<div class="rainbow-marker-loader" [hidden]="this.notloading"></div>

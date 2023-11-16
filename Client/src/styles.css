@@ -1,0 +1,54 @@
+/* You can add global styles to this file, and also import other style files */
+
+@media print {
+    body * {
+        visibility: hidden;
+    }
+}
+
+body {
+    margin: 0;
+}
+
+:root {
+    /* animations constants */
+    --steps: 10;
+    --saturation: 80%;
+    --lightness: 60%;
+    --hue-offset: 320;
+    --duration: 5000ms;
+    /* generate some colors */
+    --color-01: hsl( calc(360 / var(--steps) * 1 + var(--hue-offset)), var(--saturation), var(--lightness));
+    --color-02: hsl( calc(360 / var(--steps) * 2 + var(--hue-offset)), var(--saturation), var(--lightness));
+    --color-03: hsl( calc(360 / var(--steps) * 3 + var(--hue-offset)), var(--saturation), var(--lightness));
+    --color-04: hsl( calc(360 / var(--steps) * 4 + var(--hue-offset)), var(--saturation), var(--lightness));
+    --color-05: hsl( calc(360 / var(--steps) * 5 + var(--hue-offset)), var(--saturation), var(--lightness));
+    --color-06: hsl( calc(360 / var(--steps) * 6 + var(--hue-offset)), var(--saturation), var(--lightness));
+    --color-07: hsl( calc(360 / var(--steps) * 7 + var(--hue-offset)), var(--saturation), var(--lightness));
+    --color-08: hsl( calc(360 / var(--steps) * 8 + var(--hue-offset)), var(--saturation), var(--lightness));
+    --color-09: hsl( calc(360 / var(--steps) * 9 + var(--hue-offset)), var(--saturation), var(--lightness));
+    --color-10: hsl( calc(360 / var(--steps) * 10 + var(--hue-offset)), var(--saturation), var(--lightness));
+    --color-11: hsl( calc(360 / var(--steps) * 11 + var(--hue-offset)), var(--saturation), var(--lightness));
+    --color-crayon: #202036;
+    /* build some backgrounds */
+    --bg-01-a: no-repeat left 0% top / 11% 0% linear-gradient(to right, var(--color-01), var(--color-02));
+    --bg-01-b: no-repeat left 0% top / 11% 100% linear-gradient(to right, var(--color-01), var(--color-02));
+    --bg-02-a: no-repeat left 11.11% bottom / 11% 0% linear-gradient(to right, var(--color-02), var(--color-03));
+    --bg-02-b: no-repeat left 11.11% bottom / 11% 100% linear-gradient(to right, var(--color-02), var(--color-03));
+    --bg-03-a: no-repeat left 22.22% top / 11% 0% linear-gradient(to right, var(--color-03), var(--color-04));
+    --bg-03-b: no-repeat left 22.22% top / 11% 100% linear-gradient(to right, var(--color-03), var(--color-04));
+    --bg-04-a: no-repeat left 33.33% bottom / 11% 0% linear-gradient(to right, var(--color-04), var(--color-05));
+    --bg-04-b: no-repeat left 33.33% bottom / 11% 100% linear-gradient(to right, var(--color-04), var(--color-05));
+    --bg-05-a: no-repeat left 44.44% top / 11% 0% linear-gradient(to right, var(--color-05), var(--color-06));
+    --bg-05-b: no-repeat left 44.44% top / 11% 100% linear-gradient(to right, var(--color-05), var(--color-06));
+    --bg-06-a: no-repeat left 55.55% bottom / 11% 0% linear-gradient(to right, var(--color-06), var(--color-07));
+    --bg-06-b: no-repeat left 55.55% bottom / 11% 100% linear-gradient(to right, var(--color-06), var(--color-07));
+    --bg-07-a: no-repeat left 66.66% top / 11% 0% linear-gradient(to right, var(--color-07), var(--color-08));
+    --bg-07-b: no-repeat left 66.66% top / 11% 100% linear-gradient(to right, var(--color-07), var(--color-08));
+    --bg-08-a: no-repeat left 77.77% bottom / 11% 0% linear-gradient(to right, var(--color-08), var(--color-09));
+    --bg-08-b: no-repeat left 77.77% bottom / 11% 100% linear-gradient(to right, var(--color-08), var(--color-09));
+    --bg-09-a: no-repeat left 88.88% top / 11% 0% linear-gradient(to right, var(--color-09), var(--color-10));
+    --bg-09-b: no-repeat left 88.88% top / 11% 100% linear-gradient(to right, var(--color-09), var(--color-10));
+    --bg-10-a: no-repeat left 99.99% bottom / 11% 0% linear-gradient(to right, var(--color-10), var(--color-11));
+    --bg-10-b: no-repeat left 99.99% bottom / 12% 100% linear-gradient(to right, var(--color-10), var(--color-11));
+}

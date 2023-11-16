@@ -1,0 +1,17 @@
+<section id="front">
+    <h1 class="entry-effect">
+        <span>P</span>
+        <span>I</span>
+        <span>C</span>
+        <span>o</span>
+        <span>l</span>
+        <span>o</span>
+        <span>r</span></h1>
+    <button class="button-85 entry-effect2" routerLink="/main" role="button">ליצירת חידון לחץ </button>
+</section>
+<table>
+    <tr *ngFor="let i of this.mat; let in=index">
+        <td *ngFor="let j of i; let jn=index" [style.background-color]="this.mat[in][jn]"></td>
+    </tr>
+</table>
+<router-outlet></router-outlet>

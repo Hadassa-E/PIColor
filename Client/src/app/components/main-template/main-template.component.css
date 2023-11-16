@@ -1,0 +1,11 @@
+.logo {
+    height: 250px;
+    width: 250px;
+}
+
+#allmain {
+    height: 930px;
+    width: 100%;
+    background-image: url('/assets/stylePixel.png');
+    background-repeat: repeat-y;
+}

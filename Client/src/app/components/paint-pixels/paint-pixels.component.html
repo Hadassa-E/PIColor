@@ -1,0 +1,37 @@
+<section id="paintPixels">
+    <section id="buttons">
+        <img class="logo" src="assets/PIColorLight.gif" />
+
+        <h1>אפשרויות:</h1>
+        <input type="button" class="button-30" value="צפיה בתמונה צבועה" [disabled]="this.inPaint" (click)="PaintPic()">
+        <br>
+        <input type="button" class="button-30" value="הדפסת תמונה" (click)="PrintPic()">
+        <br>
+        <select (change)="this.shapes=!this.shapes" class="button-30">
+    <option>ריבועים</option>
+    <option>עיגולים</option>
+</select>
+    </section>
+
+    <section id="paper">
+        <div id="paperRight" class="rAndL" [style.border-left]="this.inPrint?'black 1px dashed':''">
+            <table class="table table-bordered" [style.border-collapse]="!this.shapes?'collapse':'none'">
+                <tr *ngFor="let x of this.si.mat; let i=index">
+                    <button *ngFor="let y of x;let j=index " [style.cursor]='this.thePointer' [style.border-radius]="this.shapes?'50%':'0%'" [style.color]="this.si.mat[i][j].color=='black'&&this.si.mat[i][j].num!=1?'white':''" [style.color]="TextColor(i,j)" (mouseup)="this.colorForPaint=''"
+                        (mouseover)="over(i,j)" (mousedown)="down(i,j)" [ngStyle]="{'background-color':y.color}" [disabled]="y.color==this.colorsArray[y.num]">
+                     {{y.num+1}}
+                     </button>
+                </tr>
+            </table>
+            <div id="colors">
+                <div *ngFor="let x of this.colorsArray" [style.width]="this.thecolor == x ? '72px':'62px'" [style.height]="this.thecolor == x ? '52px':'42px'" class="oneColor" [ngStyle]="{'background-color':x}" (click)="chooseColor(x)">
+                    <div class="white"></div>{{this.colorsArray.indexOf(x)+1}}</div>
+            </div>
+        </div>
+        <div id="paperLeft" [hidden]="!this.inPrint" class="rAndL">
+            <img class="original" [src]="this.si.img">
+            <img src="assets/PIColor.png" class="miniLogo">
+            <p class="endPage">created by PIColor ©</p>
+        </div>
+    </section>
+</section>
