@@ -1,0 +1,36 @@
+C:\Users\Hadassa\Desktop\PicColor_Project\BLL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\Hadassa\Desktop\PicColor_Project\BLL\bin\Debug\net7.0\BLL.dll
+C:\Users\Hadassa\Desktop\PicColor_Project\BLL\bin\Debug\net7.0\BLL.pdb
+C:\Users\Hadassa\Desktop\PicColor_Project\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\Hadassa\Desktop\PicColor_Project\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hadassa\Desktop\PicColor_Project\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Hadassa\Desktop\PicColor_Project\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\Hadassa\Desktop\PicColor_Project\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Hadassa\Desktop\PicColor_Project\BLL\obj\Debug\net7.0\BLL.dll
+C:\Users\Hadassa\Desktop\PicColor_Project\BLL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\Hadassa\Desktop\PicColor_Project\BLL\obj\Debug\net7.0\BLL.pdb
+C:\Users\Hadassa\Desktop\PicColor_Project\BLL\obj\Debug\net7.0\ref\BLL.dll
+C:\Users\Hadassa\Desktop\עותק פרויקט PIColor\PicColor_Project\BLL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\Hadassa\Desktop\עותק פרויקט PIColor\PicColor_Project\BLL\bin\Debug\net7.0\BLL.dll
+C:\Users\Hadassa\Desktop\עותק פרויקט PIColor\PicColor_Project\BLL\bin\Debug\net7.0\BLL.pdb
+C:\Users\Hadassa\Desktop\עותק פרויקט PIColor\PicColor_Project\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\Hadassa\Desktop\עותק פרויקט PIColor\PicColor_Project\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hadassa\Desktop\עותק פרויקט PIColor\PicColor_Project\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Hadassa\Desktop\עותק פרויקט PIColor\PicColor_Project\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\Hadassa\Desktop\עותק פרויקט PIColor\PicColor_Project\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Hadassa\Desktop\עותק פרויקט PIColor\PicColor_Project\BLL\obj\Debug\net7.0\BLL.dll
+C:\Users\Hadassa\Desktop\עותק פרויקט PIColor\PicColor_Project\BLL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\Hadassa\Desktop\עותק פרויקט PIColor\PicColor_Project\BLL\obj\Debug\net7.0\BLL.pdb
+C:\Users\Hadassa\Desktop\עותק פרויקט PIColor\PicColor_Project\BLL\obj\Debug\net7.0\ref\BLL.dll
+D:\הפרויקט\PicColor_Project\BLL\bin\Debug\net7.0\BLL.deps.json
+D:\הפרויקט\PicColor_Project\BLL\bin\Debug\net7.0\BLL.dll
+D:\הפרויקט\PicColor_Project\BLL\bin\Debug\net7.0\BLL.pdb
+D:\הפרויקט\PicColor_Project\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+D:\הפרויקט\PicColor_Project\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\הפרויקט\PicColor_Project\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+D:\הפרויקט\PicColor_Project\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+D:\הפרויקט\PicColor_Project\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+D:\הפרויקט\PicColor_Project\BLL\obj\Debug\net7.0\BLL.dll
+D:\הפרויקט\PicColor_Project\BLL\obj\Debug\net7.0\refint\BLL.dll
+D:\הפרויקט\PicColor_Project\BLL\obj\Debug\net7.0\BLL.pdb
+D:\הפרויקט\PicColor_Project\BLL\obj\Debug\net7.0\ref\BLL.dll

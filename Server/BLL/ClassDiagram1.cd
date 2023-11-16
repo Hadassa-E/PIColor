@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BLL.ColorClassification" Collapsed="true">
+    <Position X="337" Y="332" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEBACAAAAAAAgAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ColorClassification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.ColoringByOutlines" Collapsed="true">
+    <Position X="338.75" Y="332" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ColoringByOutlines.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.FindAreasShapes" Collapsed="true">
+    <Position X="340.5" Y="332" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FindAreasShapes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.MagnifiedPixels" Collapsed="true">
+    <Position X="337" Y="333" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAYAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>MagnifiedPixels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.Outlines" Collapsed="true">
+    <Position X="338.75" Y="333" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAgQAwAAFYAAAAAAAAAAAAgAAABAAACA=</HashCode>
+      <FileName>Outlines.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.ProcessPictureBLL" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="340.5" Y="333" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAACAAAAAQAQAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProcessPictureBLL.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.1" Collapsed="true" />
+  </Class>
+  <Class Name="BLL.ShapesRecognition" Collapsed="true">
+    <Position X="337" Y="334" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAABAAAAAABAA=</HashCode>
+      <FileName>ShapesRecognition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="BLL.IprocessPictureBLL" Collapsed="true">
+    <Position X="337" Y="335.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IprocessPictureBLL.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

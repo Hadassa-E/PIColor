@@ -1,0 +1,15 @@
+C:\Users\Hadassa\Desktop\PicColor_Project\PicColor_Project\bin\Debug\net7.0\PicColor_Project.exe
+C:\Users\Hadassa\Desktop\PicColor_Project\PicColor_Project\bin\Debug\net7.0\PicColor_Project.deps.json
+C:\Users\Hadassa\Desktop\PicColor_Project\PicColor_Project\bin\Debug\net7.0\PicColor_Project.runtimeconfig.json
+C:\Users\Hadassa\Desktop\PicColor_Project\PicColor_Project\bin\Debug\net7.0\PicColor_Project.dll
+C:\Users\Hadassa\Desktop\PicColor_Project\PicColor_Project\bin\Debug\net7.0\PicColor_Project.pdb
+C:\Users\Hadassa\Desktop\PicColor_Project\PicColor_Project\obj\Debug\net7.0\PicColor_Project.csproj.AssemblyReference.cache
+C:\Users\Hadassa\Desktop\PicColor_Project\PicColor_Project\obj\Debug\net7.0\PicColor_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hadassa\Desktop\PicColor_Project\PicColor_Project\obj\Debug\net7.0\PicColor_Project.AssemblyInfoInputs.cache
+C:\Users\Hadassa\Desktop\PicColor_Project\PicColor_Project\obj\Debug\net7.0\PicColor_Project.AssemblyInfo.cs
+C:\Users\Hadassa\Desktop\PicColor_Project\PicColor_Project\obj\Debug\net7.0\PicColor_Project.csproj.CoreCompileInputs.cache
+C:\Users\Hadassa\Desktop\PicColor_Project\PicColor_Project\obj\Debug\net7.0\PicColor_Project.dll
+C:\Users\Hadassa\Desktop\PicColor_Project\PicColor_Project\obj\Debug\net7.0\refint\PicColor_Project.dll
+C:\Users\Hadassa\Desktop\PicColor_Project\PicColor_Project\obj\Debug\net7.0\PicColor_Project.pdb
+C:\Users\Hadassa\Desktop\PicColor_Project\PicColor_Project\obj\Debug\net7.0\PicColor_Project.genruntimeconfig.cache
+C:\Users\Hadassa\Desktop\PicColor_Project\PicColor_Project\obj\Debug\net7.0\ref\PicColor_Project.dll
